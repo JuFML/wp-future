@@ -1,3 +1,6 @@
+
+		
+		
 		<!-- Scripts -->
         <?php wp_footer(); ?>
 
